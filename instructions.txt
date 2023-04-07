@@ -1,0 +1,6 @@
+1. Launch the Chrome web browser.
+2. Visit https://netflix.com/login
+3. Launch the cookies editor extanction
+4. Go here and then "Paste Code".
+5. Open the Netflix tab again.
+6. Done
